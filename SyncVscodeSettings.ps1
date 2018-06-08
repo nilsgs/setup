@@ -1,0 +1,1 @@
+Copy-Item ".\vscode\settings.json" -Destination "$HOME\AppData\Roaming\Code\User"
