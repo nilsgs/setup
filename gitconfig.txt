@@ -12,8 +12,6 @@ pull.rebase=false
 credential.helper=manager
 credential.https://dev.azure.com.usehttppath=true
 init.defaultbranch=master
-user.name=Nils Georg Skutle
-user.email=nils.georg.skutle@reitanconvenience.no
 init.defaultbranch=main
 alias.lg=log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
 core.editor=code --wait
